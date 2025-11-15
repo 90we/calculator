@@ -4,3 +4,5 @@ a=10
 b=15
 c=a+b
 print("a+b val",c)
+print("practise git")
+print("commands updation inprogress")
